@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1642698359 source:c:\users\mbr\desktop\code blocks projects\day2\main.cpp
+	<iostream>
+	"Stack.h"
+	"Queue.h"
+
+1642694125 c:\users\mbr\desktop\code blocks projects\day2\include\stack.h
+	<iostream>
+	"Node.h"
+
+1642693600 c:\users\mbr\desktop\code blocks projects\day2\include\node.h
+
+1642698803 c:\users\mbr\desktop\code blocks projects\day2\include\queue.h
+	"Node.h"
+

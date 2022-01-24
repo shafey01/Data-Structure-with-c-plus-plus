@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1642778846 source:c:\users\mbr\desktop\code blocks projects\bubbelsort\main.cpp
+	<iostream>
+	"LinkedList.h"
+	"Node.h"
+
+1642774975 c:\users\mbr\desktop\code blocks projects\bubbelsort\include\linkedlist.h
+	<iostream>
+	"Node.h"
+
+1642767589 c:\users\mbr\desktop\code blocks projects\bubbelsort\include\node.h
+
